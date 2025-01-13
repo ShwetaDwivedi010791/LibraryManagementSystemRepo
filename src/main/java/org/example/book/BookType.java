@@ -1,0 +1,5 @@
+package org.example.book;
+
+public enum BookType {
+    BUSINESS, TRAVEL, HORROR, ECONOMY,HISTORY,BIOGRAPHY, HEALTH, AUTOBIOGRAPHY, COOKING, MYTHOLOGY
+}
